@@ -96,11 +96,12 @@ a {text-decoration: none;}
 /* footer */
 
 .footer-page {
-    display: flex;
-    align-items: baseline;
     background: #2e2f42; 
     padding: 100px 0; 
     max-width: 1440px;}
+
+.footer-div {display: flex;
+    align-items: baseline;}
 
 .footer-logo {display: inline-block; margin-bottom: 16px;}
 
